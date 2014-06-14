@@ -1,3 +1,13 @@
+bin/
+obj/
+*.suo
+
+# delphi files
+*.local
+*~
+*.exe
+*.dcu
+
 # Compiled Object files
 *.slo
 *.lo
